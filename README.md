@@ -11,7 +11,7 @@ So, step by step, it would be :
 
 1. Download the zipfile
 2. Download yolov3.weights ( I could not push it into this repo, even with github LFS. So if you want to run the program you need to go and install yolov3.weights)
-You can downloda it from here : https://drive.google.com/file/d/1tQ5wa_kBLDst9OT4_3EENjRLvHFfkeHH/view?usp=sharing 
+You can download it from here : https://drive.google.com/file/d/1tQ5wa_kBLDst9OT4_3EENjRLvHFfkeHH/view?usp=sharing 
 3. Open it using a code editor ( i'm going to show it using PyCharm ) 
 4. Install the needed packages by going into the terminal, and typing : 
 
@@ -24,6 +24,8 @@ You can downloda it from here : https://drive.google.com/file/d/1tQ5wa_kBLDst9OT
 ![Test12312313](https://user-images.githubusercontent.com/93039914/232247981-5278af24-af0c-4268-8031-d3574908239c.jpg)
 
 6. If you want to stop the program, you can either press the "q" button , or press the red square inside the program : ![image](https://user-images.githubusercontent.com/93039914/232248011-99baf9c4-dad2-49aa-84b8-d35b56ddf8e4.png)
+7. Make sure that you put the yolov3.weight file inside the main program. It should look like this : ![image](https://user-images.githubusercontent.com/93039914/232814939-949bf497-f3fe-49af-86f4-855cdb666386.png)
+
 
 # How does the algorithm work 
 This program uses the YoloV3 model and MobileNetSSD. They are using convulation neural networks ( CNN's ) , but they have a different processing process so to say. 
