@@ -10,10 +10,10 @@ In order to run the application, you need to download the zipfile from this gith
 So, step by step, it would be : 
 
 1. Download the zipfile
-1.2 Download yolov3.weights ( I could not push it into this repo, even with github LFS. So if you want to run the program you need to go and install yolov3.weights)
+2. Download yolov3.weights ( I could not push it into this repo, even with github LFS. So if you want to run the program you need to go and install yolov3.weights)
 You can downloda it from here : https://drive.google.com/file/d/1tQ5wa_kBLDst9OT4_3EENjRLvHFfkeHH/view?usp=sharing 
-2. Open it using a code editor ( i'm going to show it using PyCharm ) 
-3. Install the needed packages by going into the terminal, and typing : 
+3. Open it using a code editor ( i'm going to show it using PyCharm ) 
+4. Install the needed packages by going into the terminal, and typing : 
 
 ![image](https://user-images.githubusercontent.com/93039914/232247811-0fdbc6a7-b015-4dc6-992a-9fbdad86116c.png)
 ![image](https://user-images.githubusercontent.com/93039914/232247838-bbdd8d25-7957-4614-ad72-8d4523986d72.png)
